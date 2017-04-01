@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/ljuti/unparser.git
-  revision: 36f707c88d7082f18967417f182374806b07b222
+  revision: ed9220139d4f841bf66ea26738d929e19e7c14c6
   specs:
-    unparser (0.2.5)
+    unparser (0.2.5.1)
       abstract_type (~> 0.0.7)
       adamantium (~> 0.2.0)
       concord (~> 0.1.5)
@@ -29,6 +29,7 @@ PATH
       parser (~> 2.3.1, >= 2.3.1.4)
       procto (~> 0.0.2)
       regexp_parser (~> 0.4.1)
+      unparser (~> 0.2.5, >= 0.2.5.1)
     mutant-rspec (0.8.12.1)
       mutant (~> 0.8.12.1)
       rspec-core (>= 3.4.0, < 3.6.0)
