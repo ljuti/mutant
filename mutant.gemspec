@@ -24,7 +24,7 @@ Gem::Specification.new do |gem|
 
   gem.add_runtime_dependency('parser',        '~> 2.3.1', '>= 2.3.1.4')
   gem.add_runtime_dependency('ast',           '~> 2.2')
-  gem.add_runtime_dependency('diff-lcs',      '~> 1.2')
+  gem.add_runtime_dependency('diff-lcs',      '~> 1.3')
   gem.add_runtime_dependency('parallel',      '~> 1.3')
   gem.add_runtime_dependency('morpher',       '~> 0.2.6')
   gem.add_runtime_dependency('procto',        '~> 0.0.2')
